@@ -1,0 +1,40 @@
+{
+    "produtos": [
+        {
+            "id": 1,
+            "nome": "Ravioli",
+            "preco": 49.90,
+            "imagem": "https://midias.eurodicas.com.br/wp-content/uploads/2024/07/ravioli.jpg.webp"
+        },
+        {
+            "id": 2,
+            "nome": "Cotoletta alla milanese",
+            "preco": 89.90,
+            "imagem": "https://midias.eurodicas.com.br/wp-content/uploads/2024/07/cotoletta-alla-milanese-1.jpg.webp"
+        },
+        {
+            "id": 3,
+            "nome": "Lasagna",
+            "preco": 79.90,
+            "imagem": "https://recipesmaren.com/wp-content/uploads/2025/08/Classic_Lasagna_with_Meat_Sauce_1.webp"
+        },
+        {
+         "id": 4,
+         "nome": "Pizza Tradicional",
+         "preco": 59.90,   
+         "imagem": "https://newcoach2012.net/wp-content/uploads/2021/10/italia-pizza-aurelien-lemasson-unsplash.jpg"
+        },
+        {
+         "id": 5,
+         "nome": "Cannoli",
+         "preco": 39.90,
+         "imagem": "https://tse3.mm.bing.net/th/id/OIP.vzPm2h7HeAQNtxUq5LoQQQHaHa?r=0&pid=Api"
+        },
+        {
+         "id": 6,
+         "nome": "Affogato",
+         "preco": 29.90,
+         "imagem": "https://www.cucchiaio.it/content/dam/cucchiaio/it/ricette/2024/07/affogato-al-caffe/Affogato%20al%20caffe-1.jpg"
+        }
+    ]
+}
